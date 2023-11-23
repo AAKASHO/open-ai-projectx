@@ -107,7 +107,7 @@ body {
   white-space: pre-wrap; 
 
   -ms-overflow-style: none;
-  scrollbar-width: none;
+  /* scrollbar-width: none; */
 }
 
 /* hides scrollbar */
